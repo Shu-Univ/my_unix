@@ -24,7 +24,7 @@
   ## 0.3&emsp;Linux でのターミナルの使い方
   ###### 0. Linux を起動したら、最初に何をすると良いか?
   `imwheel` を実行してマウスのホイールのスクロール速度を上げる。（もし未設定なら以下を参照に設定する。次からは `imwheel` で良いので）  
-  https://codechacha.com/ja/linux-imwheel/
+  [Ubuntuでimwheelでマウスホイールのスクロール速度の変更](https://codechacha.com/ja/linux-imwheel/)
   ###### 1. ウィンドウを増やすには?減らすには?
   「Ctrl + Alt + D」 を押下、減らすには 「Ctrl + D」 を押下。なんで増やす方が煩雑なんだよ (｀ω´)
   ## 0.4&emsp;シェルスクリプト という言語について
@@ -214,7 +214,7 @@
   * [ ] 上記の応用なので、 sed コマンドの置換前の文字と置換後の文字を入れる場所に注意して、 `sed 's/     /\t/g' "verbose.txt" > "simple.txt"`  
         すれば良い。下記のサイトには、\t をダブルクォーテーションで囲むべきとの描写があるが、 Mac（現在の環境） では不要と思われる。むしろ付けてしまうと、
         タブがダブルクォーテーションで囲まれてしまうので、しない方が良い。  
-        https://takuya-1st.hatenablog.jp/entry/2014/08/04/152101
+        [コマンドでtabやスペースを置換する方法 sed ruby](https://takuya-1st.hatenablog.jp/entry/2014/08/04/152101)
   ###### 3. あるファイルの各行のはじめにある空白 (スペース) およびタブをすべて削除する方法は?
   * [ ]  行頭を示すオプション ^ と、連続置換のオプション　-e 用いて、　`sed -e 's/^ //g' -e 's/^\t//g' simple.txt`　とすれば良い。  
           どこかに結果を書き込む場合は、前問の通り。
@@ -233,7 +233,7 @@
           なお、 dpkg コマンドを用いれば、所持中のパッケージのみを対象に検索できる。
   ###### 5. 指定したパッケージに含まれるファイル一覧を表示する方法は?
   * [ ] 　`apt-file list 文字列` で、パッケージ名に 「文字列」 を含むパッケージ以下のファイルを参照可能、 -F オプションも使用可能。  
-          https://atmarkit.itmedia.co.jp/ait/articles/1709/08/news020.html
+        [【 apt-file 】コマンド――特定のファイルが収録されているパッケージを探す](https://atmarkit.itmedia.co.jp/ait/articles/1709/08/news020.html)
 # 4&emsp;シェルスクリプトとパス設定
 長い一連の命令をひとつのコマンドとするには、通常シェルスクリプトと呼ばれるファイルを作成する。
   ## 4.1&emsp;準備運動
@@ -319,8 +319,8 @@
         ディレクトリ内のファイル一覧表示の権限は、r の読み出しなので、ここでは誰でも可能である。  
         中のファイルの削除や名前変更は、w の書き込み権限なので、ここでは作成者 shu_w しかできない。  
         cd コマンドは、ディレクトリ内への移動なので、 x の実行権限が必要である。ここでは誰でもできる。
-        https://qiita.com/shisama/items/5f4c4fa768642aad9e06
-        https://tech-blog.rakus.co.jp/entry/20191204/linux/new-engineer
+        [Linuxの権限確認と変更(chmod)（超初心者向け）](https://qiita.com/shisama/items/5f4c4fa768642aad9e06)  
+        [Linuxのパーミッション -不本意なファイル削除を防ぐための設定-](https://tech-blog.rakus.co.jp/entry/20191204/linux/new-engineer)  
   ###### 4. /home/public/tmp/pochi に自分の作ったプログラム (dog.c とする) をなにか置いて、それに対して読み込み権限を持つヒト、書き換えや削除権限を持つヒトはそれぞれどのようなヒトか述べなさい。
   * [ ]  まずは `vi vegetable.c` で c ファイルを作る。  `ls -l` を実行すると、  
           「-rw-r--r-- 1 shu_w users 74 11月 25 12:18 vegetable.c」　と表示される。  
