@@ -8,6 +8,7 @@
 - [ ] 就職活動：
 - [ ] その他_大学：奨学金について
 - [ ] その他_大学：
+- [ ] その他_生活等：パスワードの再作成
 - [ ] その他_生活等：
 # 進捗報告
 Nothing is particularly hard if you divide it into small jobs.
