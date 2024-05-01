@@ -15,6 +15,7 @@
 - [ ] その他_生活等：ファイルの整理と削除
 - [ ] その他_生活等：WSME の再構成
 - [ ] その他_生活等：ディスプレイマウントの設置
+- [ ] その他_生活等：バイトのカス上司に請求
 # 進捗報告
 Nothing is particularly hard if you divide it into small jobs.
 ## April 29th (Mon) 2024 ~
