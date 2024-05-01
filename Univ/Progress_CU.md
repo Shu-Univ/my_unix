@@ -21,6 +21,8 @@
 - [ ] その他_生活等：バイトのカス上司に請求
 # 進捗報告
 Nothing is particularly hard if you divide it into small jobs.
+## May 6th (Mon) 2024 ~
+
 ## April 29th (Mon) 2024 ~
 所感：  
 バイトの研修が一通り終わって、履修登録も終わったので、ようやくスケジュールが固定できそうなのが一番嬉しい。  
