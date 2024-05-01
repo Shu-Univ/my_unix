@@ -10,7 +10,8 @@
 - [ ] その他_大学：
 - [ ] その他_生活等：パスワードの再作成
 - [ ] その他_生活等：粗大ゴミの処理
-- [ ] その他_生活等：
+- [ ] その他_生活等：写真の整理
+- [ ] その他_生活等：ファイルの整理と削除
 # 進捗報告
 Nothing is particularly hard if you divide it into small jobs.
 ## April 29th (Mon) 2024 ~
