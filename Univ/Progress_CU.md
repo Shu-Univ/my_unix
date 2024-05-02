@@ -10,11 +10,11 @@
 - [ ] 授業：SUT　デバイスの考案
 - [ ] 授業：留学　調べる
 - [ ] その他：奨学金について
+- [ ] その他：AtCoder を始める
 - [ ] 就職活動：就活メールさばき
 - [ ] 就職活動：TOEIC, TOEFL の受け直し
 - [ ] 就職活動：TECH OFFER 登録
 - [ ] 就職活動：基本情報試験について調べる（本、過去問、時期）
-- [ ] 就職活動：AtCoder を始める
 - [ ] その他_生活：パスワードの再作成
 - [ ] その他_生活：粗大ゴミの処理
 - [ ] その他_生活：写真の整理
@@ -31,6 +31,9 @@ Nothing is particularly hard if you divide it into small jobs.
 就職活動：TECH OFFER 登録 → In Progress  
  - オファーメータ 60%
  - 最初のオファーがきた
+その他：AtCoder を始める → In Progress
+ - 登録完了
+ - [AtCoder に登録したら次にやること](https://qiita.com/drken/items/fd4e5e3630d0f5859067) を読む
 
 所感：  
 バイトの研修が一通り終わって、履修登録も終わったので、ようやくスケジュールが固定できそうなのが一番嬉しい。  
