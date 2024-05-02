@@ -31,7 +31,7 @@ Nothing is particularly hard if you divide it into small jobs.
 就職活動：TECH OFFER 登録 → In Progress  
  - オファーメータ 60%
  - 最初のオファーがきた
-その他：AtCoder を始める → In Progress
+その他：AtCoder を始める → In Progress  
  - 登録完了
  - [AtCoder に登録したら次にやること](https://qiita.com/drken/items/fd4e5e3630d0f5859067) を読む
 
