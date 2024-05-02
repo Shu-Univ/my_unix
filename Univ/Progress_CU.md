@@ -26,7 +26,7 @@ Nothing is particularly hard if you divide it into small jobs.
 ## May 6th (Mon) 2024 ~
 
 ## April 29th (Mon) 2024 ~
- - 授業：通信ネット　３回目動画の視聴 → Done
+授業：通信ネット　３回目動画の視聴 → Done
 
 所感：  
 バイトの研修が一通り終わって、履修登録も終わったので、ようやくスケジュールが固定できそうなのが一番嬉しい。  
