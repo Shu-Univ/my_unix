@@ -23,6 +23,8 @@
 - [ ] その他_生活：バイトのカス上司に請求
 # 進捗報告
 Nothing is particularly hard if you divide it into small jobs.
+## May 13th (Mon) 2024 ~
+
 ## May 6th (Mon) 2024 ~
 修：履修計画書の見直し → Done  
 授業：留学　調べる → In Progress  
