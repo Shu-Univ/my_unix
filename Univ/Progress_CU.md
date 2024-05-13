@@ -28,7 +28,10 @@ Nothing is particularly hard if you divide it into small jobs.
 ## May 6th (Mon) 2024 ~
 修：履修計画書の見直し → Done  
 授業：留学　調べる → In Progress  
-その他_生活：粗大ゴミの処理 → Done  
+その他_生活：粗大ゴミの処理 → Done
+
+所感：  
+履修計画書がむずい、新しいことを考えたい。留学についても調べることが多いけど、大まかには決まった。
 
 ## April 29th (Mon) 2024 ~
 授業：通信ネット　３回目動画の視聴 → Done  
